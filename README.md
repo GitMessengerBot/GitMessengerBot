@@ -1,0 +1,2 @@
+# GitMessengerBot
+What is GitMessengerBot?
